@@ -72,7 +72,7 @@ form* select_Menu(form *sptr) {
 			exit();
 			break;
 		default :
-			cout << "잘못 입력하셨습니다." << endl;
+			cout << "잘못 입력하셨습니다!" << endl;
 			break;
 	}
 	return sptr;
